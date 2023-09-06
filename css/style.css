@@ -13,6 +13,34 @@ li {
 }
 
 /* ******************* */
+/* NAV STYLES */
+/* ******************* */
+
+.navbar {
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navItems{
+    display: flex;
+}
+
+.navItem {
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.navLink {
+    text-decoration: none;
+    color: #000000;
+}
+
+.navLink:hover {
+    color: #FF5321;
+}
+
+/* ******************* */
 /* BANNER STYLES */
 /* ******************* */
 
